@@ -1,0 +1,4 @@
+day 4 :
+	- working on git project
+day 5 :
+	- creating portfolio
